@@ -1,0 +1,32 @@
+{
+  "name": "Fusion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "ffmpeg-binaries": "^4.0.0",
+    "firebase": "^5.5.1",
+    "format": "^0.2.2",
+    "fs": "0.0.1-security",
+    "jimp": "^0.5.3",
+    "moment": "^2.22.2",
+    "ms": "^2.1.1",
+    "node-opus": "^0.3.0",
+    "npm": "^6.4.1",
+    "number-converter": "^1.2.1",
+    "os": "^0.1.1",
+    "simple-mask-money": "^1.3.0",
+    "simple-youtube-api": "^5.0.2",
+    "spotify": "^0.3.0",
+    "youtube-dl": "^1.12.2",
+    "ytdl-core": "^0.26.1"
+  }
+}
